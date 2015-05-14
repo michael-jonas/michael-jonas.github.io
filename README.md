@@ -1,4 +1,4 @@
-This theme, http://startbootstrap.com/template-overviews/freelancer/, was used for personal site. I am very thankful for the work the creators of this theme put in.
+This theme, http://startbootstrap.com/template-overviews/freelancer/, was used for my personal site. I am very thankful for the work the creators of this theme put in.
 ## Creator
 
 Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
